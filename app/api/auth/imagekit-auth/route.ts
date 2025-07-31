@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { getUploadAuthParams } from "@imagekit/next/server";
 
 export async function GET() {
